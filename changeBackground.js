@@ -36,4 +36,4 @@ function flashBang() {
 }
 
 const btn1 = document.getElementById("changeBackground-btn")
-btn1.onclick = flashBang;
+btn1.onclick = background;
